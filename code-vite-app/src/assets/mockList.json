@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "Perrarina",
+      "category": "perros",
+      "description": "Alimento premium para perros",
+      "price": 500,
+      "url": "https://emaxve.com/images/detailed/10/PURINA_17-H.png"
+    },
+    {
+      "id": 2,
+      "name": "Gatarina",
+      "category": "gatos",
+      "description": "Alimento premium para gatos",
+      "price": 400,
+      "url": "https://ik.imagekit.io/xdqklh2jgw/media/products/23883/Dali_Gatos_Pescado.png?tr=h-220"
+    },
+    {
+        "id": 3,
+        "name": "Pelota",
+        "category": "perros",
+        "description": "Pelota para lanzar a tu perro",
+        "price": 80,
+        "url": "https://m.media-amazon.com/images/I/61E2P62Cm7L.jpg"
+    },  
+    {
+        "id": 4,
+        "name": "Raton",
+        "category": "gatos",
+        "description": "Ratones para que tu gato persiga",
+        "price": 45,
+        "url": "https://down-mx.img.susercontent.com/file/e62cce70688875b1a9d9ac739094a6a9"
+    }
+  ]
+  
